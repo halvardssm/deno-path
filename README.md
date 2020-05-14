@@ -1,4 +1,4 @@
-![ci](https://github.com/halvardssm/deno-path/workflows/ci/badge.svg)
+![CI](https://github.com/halvardssm/deno-path/workflows/CI/badge.svg)
 [![(Deno)](https://img.shields.io/badge/deno-1.0.0-green.svg)](https://deno.land)
 
 # Deno Path
